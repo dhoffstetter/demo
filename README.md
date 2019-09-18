@@ -7,3 +7,5 @@ Add more text
 Hi there how are you doing?
 
 This is bound to cause trouble
+
+More text related to Stashing
